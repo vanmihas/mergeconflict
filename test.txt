@@ -1,1 +1,1 @@
-city: fredrikstad
+city: oslo
